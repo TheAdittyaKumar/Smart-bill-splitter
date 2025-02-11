@@ -1,4 +1,4 @@
-#Smart Bill Splitter
+# Smart Bill Splitter
 
 How to Run?
 
