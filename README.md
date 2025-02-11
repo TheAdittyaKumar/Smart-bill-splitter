@@ -6,13 +6,19 @@ Open Command Prompt (cmd) and enter:
 
 cd C:\Smart Bill Splitter python main.py
 
+----------------------------------------------------------------------
+
 Coded by
 
 Adittya Kumar Chowdhury
 
+----------------------------------------------------------------------
+
 Overview
 
 A Python-based CLI tool to manage shared expenses, track balances, and settle debts efficiently. Saves transactions in CSV files.
+
+----------------------------------------------------------------------
 
 Features:
 
@@ -23,6 +29,8 @@ Features:
 3.Settle Debts – Minimize payment transactions.
 
 4.CSV Export – Store expenses and transactions.
+
+----------------------------------------------------------------------
 
 Technologies & Concepts Used:
 
